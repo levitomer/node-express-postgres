@@ -1,0 +1,24 @@
+{
+	"name": "node-express-postgres",
+	"version": "1.0.0",
+	"description": "RESTful API with Node.js, Express, and PostgreSQL",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/levitomer/node-express-postgres.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/levitomer/node-express-postgres/issues"
+	},
+	"homepage": "https://github.com/levitomer/node-express-postgres#readme",
+	"dependencies": {
+		"express": "^4.16.4",
+		"pg": "^7.10.0"
+	}
+}
